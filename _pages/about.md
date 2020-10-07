@@ -7,18 +7,14 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Sebastian Lee; I am a first year machine learning PhD student in [Claudia Clopath's lab](http://www.bg.ic.ac.uk/research/c.clopath/) at Imperial College London. I am interested in the intersection between neuroscience and machine learning, specifically in relation to the paradigms of reinforcement learning, continual learning and meta-learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously I did my undergraduate degree in theoretical physics (also at Imperial), and my master's in computer science at the University of Oxford where my research was under the supervision of Andrew Saxe and Sebastian Goldt. I have also been an AI resident at Microsoft Research in Cambridge and an AI/ML intern at Apple. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out to me at _user_ @ ic.ac.uk where _user_ is __sal14__.
